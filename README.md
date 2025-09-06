@@ -1,1 +1,0 @@
-# trabalho_poo_ia
